@@ -1,2 +1,2 @@
-##Breadboard Business Card
+## Breadboard Business Card
 This is a simple fun project that I had in mind that is a way to connect an ATTINY85 to a breadboard and have something cool to show of to others as a fist impression or something. It is a really simple 90mmx50mm rectangle with the ATTINY85 in the middle with traces fanning out to holes for pinheaders. This was designed using KiCad.
