@@ -1,14 +1,12 @@
-const int ledPin = 0
-
 void setup() 
 {
-  pinMode(ledPin, OUTPUT)
+  pinMode(0, OUTPUT)
 }
 
 void loop() 
 {
-  digitalWrite(ledPin, HIGH)
+  digitalWrite(0, HIGH)
   delay(1000)
-  digitalWrite(ledPin, LOW)
+  digitalWrite(0, LOW)
   delay(1000)
 }
